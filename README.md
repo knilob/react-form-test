@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React Form Exercise
+
+This is a test exercise to build out a fairly simple form interface in React. The form actually submits to a HeroTofu endpoint to email the form submission values to my personal email account. It also uses a fetch call to pull in a list of Countries and Country Codes to populate the Country select element in the form.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
